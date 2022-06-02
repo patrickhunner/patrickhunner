@@ -1,4 +1,4 @@
-Hi, I'm @patrickhunner! I'm pretty new to the software engineering space but am currently studing it as a sophomore at the University of Minnesota! I'm finding myself drawn to different ways of visualizing algorithms or computer systems with the hopes of making my way more towards data analytics/visualization. Currently, I'm trying to find time to learn about front-end programs as I have now had some experience with OOP languages and would like to be able to create platforms on which to apply those. 
+Hi, I'm @patrickhunner! I'm currently studying Computer Science as a junior at the University of Minnesota! I'm finding myself drawn to different ways of visualizing algorithms or computer systems with the hopes of making my way more towards data analytics/visualization. Currently, I'm trying to find time to learn about front-end programs as I have now had some experience with OOP languages and would like to be able to create platforms on which to apply those. 
 
 
 <!---
